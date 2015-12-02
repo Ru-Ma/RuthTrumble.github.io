@@ -9,7 +9,7 @@
 	height: 250px;
 }
 
-h2 {text-align: center; font-size: 28px;
+h2 {text-align: center; font-size: 20px;
 	color: darkslategray;
 }
 h3{text-align: center; font-size: 18px;
@@ -23,44 +23,4 @@ h5 {text-align: justify; font-size: 13px;
 	text-transform: bold;
 	color: darkslategray;
 
-}
-button, input, select, textarea {
-    font-family: inherit;
-    font-size: inherit;
-    line-height: inherit;
-}
-button, html input[type=button], input[type=reset], input[type=submit] {
-    cursor: pointer;
-}
-button, select {
-    text-transform: none;
-}
-
-user agent stylesheet input[type="button" i], input[type="submit" i], input[type="reset" i], input[type="file" i]::-webkit-file-upload-button, button {
-    align-items: flex-start;
-    text-align: center;
-    cursor: default;
-    color: buttontext;
-    padding: 2px 6px 3px;
-    border: 2px outset buttonface;
-    border-image-source: initial;
-    border-image-slice: initial;
-    border-image-width: initial;
-    border-image-outset: initial;
-    border-image-repeat: initial;
-    background-color: buttonface;
-    box-sizing: border-box;
-}
-user agent stylesheetinput, textarea, keygen, select, button {
-    margin: 0em;
-    font: 13.3333px Arial;
-    text-rendering: auto;
-    color: initial;
-    letter-spacing: normal;
-    word-spacing: normal;
-    text-transform: none;
-    text-indent: 0px;
-    text-shadow: none;
-    display: inline-block;
-    text-align: start;
 }
