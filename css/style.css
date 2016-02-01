@@ -9,6 +9,12 @@
 	height: 250px;
 }
 
+.portfolio-thumbnail2 img {
+	height: 500px;
+}
+.portfolio-thumbnail3 img {
+	height: 850px;
+}
 h2 {text-align: center; font-size: 30px;
 	color: darkslategray;
 }
@@ -17,9 +23,6 @@ h3{text-align: center; font-size: 18px;
 h4{text-align: center; font-size: 16px;
 	color: darkslategray;
 }
-
-
-
 
 h5 {text-align: justify; font-size: 13px;
 
@@ -46,3 +49,9 @@ h1 {text-align: center;
   margin-right: auto ;
 }
 .jumbotron {background-size: cover}
+
+p.small {line-height: 50}
+p {
+  margin-top: 0em;
+  margin-bottom: 2em;
+}
